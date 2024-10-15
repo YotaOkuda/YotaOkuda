@@ -15,8 +15,8 @@ Graduate School of Medicine, Pharmaceutical, and Engineering Sciences, Universit
 
 # 経歴 / Career
 - 2022/03 茨城工業高等専門学校 情報系 卒業  
-          Graduated from National Institute of Technology(KOSEN), Ibaraki College, Computer Science
-- 2024/03 富山大学 工学部 工学科 知能情報工学コース 卒業
+　　　　　　Graduated from National Institute of Technology(KOSEN), Ibaraki College, Computer Science
+- 2024/03 富山大学 工学部 工学科 知能情報工学コース 卒業  
           Graduate of the University of Toyama, Faculty of Engineering, Department of Engineering, Intelligent Information Engineering Course
 
 <!--
