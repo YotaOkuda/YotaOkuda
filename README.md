@@ -28,7 +28,7 @@ University of Toyama, Graduate School of Pharma-Medical Sciences, Medical Design
   contributions
 </p>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YotaOkuda/YotaOkuda/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/YotaOkuda/YotaOkuda/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </div>
 
 <br>
