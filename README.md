@@ -2,6 +2,7 @@
 
 ![view counter](https://komarev.com/ghpvc/?username=YotaOkuda)
 
+<br>
 
 # 所属 / Affiliation
 富山大学 大学院 医薬理工学環 メディカルデザインプログラム 人間情報学研究室  
