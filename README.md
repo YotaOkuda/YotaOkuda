@@ -1,6 +1,10 @@
+# Hi there 👋 , I'm [奥田陽太 / Yota Okuda](https://www.github.com/YotaOkuda)
+
+[My Portfolio Site](https://yota-portfolio.netlify.app/)
+
 ![view counter](https://komarev.com/ghpvc/?username=YotaOkuda)
 
-# 目次
+### 目次
 1. [所属 / Affiliation](#所属--Affiliation)
 1. [経歴 / Career](#経歴--Career)
 1. [スキルセット / Skill set](#スキルセット--skill-set)
@@ -11,13 +15,12 @@
   
 # 所属 / Affiliation
 富山大学 大学院 医薬理工学環 メディカルデザインプログラム 人間情報学研究室  
-Graduate School of Medicine, Pharmaceutical, and Engineering Sciences, University of Toyama, Medical Design Program, Human Informatics Laboratory
+University of Toyama, Graduate School of Pharma-Medical Sciences, Medical Design Program, Human Informatics Laboratory
 
 # 経歴 / Career
-- 2022/03 茨城工業高等専門学校 情報系 卒業  
-　　　　　　Graduated from National Institute of Technology(KOSEN), Ibaraki College, Computer Science
-- 2024/03 富山大学 工学部 工学科 知能情報工学コース 卒業  
-          Graduate of the University of Toyama, Faculty of Engineering, Department of Engineering, Intelligent Information Engineering Course
+- 2022/03 茨城工業高等専門学校 情報系 卒業<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduated from National Institute of Technology(KOSEN), Ibaraki College, Computer Science
+- 2024/03 富山大学 工学部 工学科 知能情報工学コース 卒業<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduated from the University of Toyama, Faculty of Engineering, Department of Engineering, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligent Information Engineering Course
+- 2026/03 富山大学 大学院 医薬理工学環 メディカルデザインプログラム 卒業予定<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expected to graduate from the University of Toyama, Graduate School of Pharma-Medical Sciences, Medical Design Program
 
 <!--
 **YotaOkuda/YotaOkuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
