@@ -21,11 +21,17 @@ University of Toyama, Graduate School of Pharma-Medical Sciences, Medical Design
 # 参考 / Reference
 ### Click [My PortFolio](https://yota-portfolio.netlify.app/) Site!!
 
+<br>
+
 <p align="center">
   contributions
 </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YotaOkuda/YotaOkuda/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
 
-![Snake](https://raw.githubusercontent.com/YotaOkuda/YotaOkuda/output/github-contribution-grid-snake.svg)
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YotaOkuda&layout=compact)
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YotaOkuda)
