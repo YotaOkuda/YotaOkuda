@@ -34,7 +34,6 @@ University of Toyama, Graduate School of Pharma-Medical Sciences, Medical Design
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YotaOkuda&layout=compact)
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YotaOkuda)
 <!--
 **YotaOkuda/YotaOkuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
