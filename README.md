@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm [奥田陽太 / Yota Okuda](https://yota-portfolio.netlify.app/)
+# Hi there 👋😆, I'm [奥田陽太 / Yota Okuda](https://yota-portfolio.netlify.app/)
 
 ![view counter](https://komarev.com/ghpvc/?username=YotaOkuda)
 
