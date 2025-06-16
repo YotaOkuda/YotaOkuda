@@ -16,11 +16,10 @@
 
 <table>
 <tr>
-<td width="200" align="center">
+<!-- <td width="200" align="center">
 <img src="https://skillicons.dev/icons?i=neovim" width="100" height="100" alt="Flutter" />
-<!-- <br><strong>Flutter</strong> -->
-</td>
-<td width="600" align="left">
+</td> -->
+<td width="800" align="left">
 
 ### 👋😆 **Hi, I'm [Yota Okuda](https://yota-portfolio.netlify.app/)!**
 🚀 **Affiliation:** University of Toyama, Graduate School of Pharma-Medical Sciences, Medical Design Program, Human Informatics Laboratory
