@@ -33,9 +33,11 @@
 
 ## 📊 **GitHub Analytics**
 
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YotaOkuda&theme=transparent&border_radius=10&starting_year=2025" alt="readme streak stats" />
 </div>
+-->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YotaOkuda&custom_title=Yota's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
